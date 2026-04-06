@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WorkspaceSettings">
+    <project name="E-API-GATEWAY" path="$PROJECT_DIR$/E-API-GATEWAY" />
+    <project name="Eureka-Server" path="$PROJECT_DIR$/Eureka-Server" />
+    <project name="Order-Service" path="$PROJECT_DIR$/Order-Service" />
+    <project name="Payment-Service" path="$PROJECT_DIR$/Payment-Service" />
+    <option name="workspace" value="true" />
+  </component>
+</project>
